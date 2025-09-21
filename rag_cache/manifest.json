@@ -1,0 +1,8 @@
+{
+  "dataset_hash": "5bdcd7e63a6e2a92194536c2695379168cc14cc9af2941a476c76789ffb5b57a",
+  "embed_model": "text-embedding-3-small",
+  "num_vectors": 139,
+  "dim": 1536,
+  "created_at": 1758382473,
+  "source": "c:\\Users\\Timur U\\OneDrive\\Рабочий стол\\Hacathon 2025 NU Spring\\CHUNKS_DB.csv"
+}
