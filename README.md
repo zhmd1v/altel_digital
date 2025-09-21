@@ -4,7 +4,7 @@ OPENAI_API_KEY = "YOUR_TOKEN"
 YT_API_KEY = "YOUR_TOKEN"
 
 
-![Описание](images/first.png)
-![Описание](images/second.png)
-![Описание](images/third.png)
-![Описание](images/fourth.png)
+![Пример Работы](images/first.png)
+![](images/third.png)
+![](images/fourth.png)
+![](images/second.png)
